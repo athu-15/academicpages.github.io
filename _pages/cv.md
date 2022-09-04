@@ -11,21 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. in Computer Science from BITS Pilani University, 2023(expected)
+* M.Sc. in Mathematics from BITS Pilani University, 2023(expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2020: Intern(2 months)
+  * UST Global, Trivandrum
+  * Duties included: Developing a Bidirectional LSTM for Language Classification
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2022: Intern, Member of Technical Staff(5 months)
+  * Nutanix Inc., Bengaluru
+  * Duties included: Working in the Flow team, which handles networking and network security for Nutanix Architecture.
   
 Skills
 ======
@@ -35,24 +32,12 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
+Teaching Assistantships
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Unofficial Teaching Assistant for the course Probability and Statistics, in the second semester of 2019-20.
+* Official Teaching Assistant for the course Logic in Computer Science, for the first semester of 2021-22.
+* Teaching Assistant for the course Object Oriented Programming, for the second semester of 2021-22.
   
 Service and leadership
 ======
