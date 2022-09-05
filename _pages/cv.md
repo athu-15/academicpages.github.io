@@ -42,3 +42,5 @@ Extra Curriculars
 ======
 * Was a core member in the Literary and Debating Club of BITS Goa, and took part in organising a nationwide debate and a nationwide literary fest.
 * Was a core member for the Department of Journalism of BITS Goa, and have written various articles on guiding freshers, sports and tech.
+
+<a href="/cv.pdf">See CV attached here.</a>
